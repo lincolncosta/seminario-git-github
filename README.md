@@ -12,10 +12,26 @@
 * Git, GitHub e GitLab;
 
 ### Informações básicas
-* Repositórios;
+* Repositórios e branches;
 * Primeiros comandos;
 * Estado dos arquivos no Git;
+* Exercício de commit e PR;
+* Git ignore;
 
+### Situações complementares
+* Desfazendo alterações;
+* Resolução de conflitos;
+* Branching e rebase;
+* Colaboração com projetos open source;
+
+### Informações avançadas
+* Organizações do GitHub;
+* Comandos avançados;
+* GitHub Pages;
+* GitHub Milestones;
+* Webhooks;
+
+## Alunos
 
 ## Autores
 
