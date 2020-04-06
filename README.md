@@ -9,7 +9,7 @@
 ### Introdução geral
 * Gerência e configuração de software;
 * Controle de versão;
-* Git, GitHub e GitLab;
+* Git, GitHub, GitLab e Gogs;
 
 ### Informações básicas
 * Repositórios e branches;
