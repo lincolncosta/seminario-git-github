@@ -6,17 +6,17 @@
 <p align="center">Esse aulão propõe-se a explicar o que é Git, mostrar o seu funcionamento, seus comandos gerais, boas práticas de utilização e as principais plataformas de hospedagem que o utilizam.</p>
 
 ## Conteúdo
-### Introdução geral
-* Gerência e configuração de software;
+### Introdução Geral
+* Gerência e Configuração de Software;
 * Controle de versão;
-* Git, GitHub, GitLab e Gogs;
+* O Universo Git: GitHub, GitLab, Bitbucket, Gogs...
 
-### Informações básicas
+### Informações Básicas
 * Repositórios e branches;
 * Primeiros comandos;
 * Estado dos arquivos no Git;
-* Exercício de commit e PR;
-* Git ignore;
+* HANDS ON! Commit e pull request;
+* ATENÇÃO! Git ignore;
 
 ### Situações complementares
 * Desfazendo alterações;
