@@ -21,15 +21,12 @@
 ### Situações complementares
 * Desfazendo alterações;
 * Resolução de conflitos;
-* Branching e rebase;
 * Colaboração com projetos open source;
 
 ### Informações avançadas
 * Organizações do GitHub;
 * Comandos avançados;
 * GitHub Pages;
-* GitHub Milestones;
-* Webhooks;
 
 ## Alunos
 
