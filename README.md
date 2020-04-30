@@ -29,10 +29,14 @@
 * GitHub Pages;
 
 ### Referências e links úteis
+* [Thank you for 100 million repositories](https://github.blog/2018-11-08-100m-repos/);
+* [The State of the Octoverse 2019](https://github.blog/2019-11-06-the-state-of-the-octoverse-2019/);
+* [Comandos do Git que você precisa conhecer](https://www.treinaweb.com.br/blog/comandos-do-git-que-voce-precisa-conhecer-parte-1/);
 
-## Alunos
 
-## Autores
+## Participantes
+
+## Autor
 
 | [<img src="https://avatars0.githubusercontent.com/u/26147019?s=460&v=4" width=115><br><sub>@tekpixo</sub>](https://github.com/tekpixo)|
 | :---: |
