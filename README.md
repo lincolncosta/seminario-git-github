@@ -36,9 +36,9 @@
 
 ## Participantes
 
-
-| [<img src="https://avatars2.githubusercontent.com/u/62726342?s=400&v=4" width=115><br><sub>@lucasdrandrade</sub>](https://github.com/lucasdrandrade)|
-| :---: | 
+| [<img src="https://avatars2.githubusercontent.com/u/62726342?s=400&v=4" width=115><br><sub>@lucasdrandrade</sub>](https://github.com/lucasdrandrade)
+| :---: |
+ 
 
 ## Autor
 
