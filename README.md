@@ -1,5 +1,5 @@
 <h1 align="center">
-    Introdução ao Git e GitHub.
+    Introdução ao Git e GitHub!
     <p align="center"><img src="extra/imagens/git.svg" alt="Git" width="120px" /></p>
 </h1>
 
