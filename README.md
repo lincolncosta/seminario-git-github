@@ -36,7 +36,14 @@
 
 ## Participantes
 
+
+| [<img src="https://avatars2.githubusercontent.com/u/62726342?s=400&v=4" width=115><br><sub>@lucasdrandrade</sub>](https://github.com/lucasdrandrade)|
+| :---: | (Participante: Lucas Draeger de Andrade)
+
+
 ## Autor
 
 | [<img src="https://avatars0.githubusercontent.com/u/26147019?s=460&v=4" width=115><br><sub>@tekpixo</sub>](https://github.com/tekpixo)|
 | :---: |
+
+
