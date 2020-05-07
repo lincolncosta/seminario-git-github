@@ -40,3 +40,7 @@
 
 | [<img src="https://avatars0.githubusercontent.com/u/26147019?s=460&v=4" width=115><br><sub>@tekpixo</sub>](https://github.com/tekpixo)|
 | :---: |
+
+| [<img src="https://avatars3.githubusercontent.com/u/2388804?s=400&v=4" width=100><br><sub>@njrizzo</sub>](https://github.com/njrizzo)|
+| :---: |
+
