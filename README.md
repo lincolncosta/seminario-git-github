@@ -36,15 +36,11 @@
 
 ## Participantes
 
-| [<img src="https://avatars2.githubusercontent.com/u/62726342?s=400&v=4" width=115><br><sub>@lucasdrandrade</sub>](https://github.com/lucasdrandrade)
-| :---: |
-
-| [<img src="https://avatars3.githubusercontent.com/u/2388804?s=400&v=4" width=100><br><sub>@njrizzo</sub>](https://github.com/njrizzo)|
-| :---: |
+| [<img src="https://avatars2.githubusercontent.com/u/62726342?s=400&v=4" width=115><br><sub>@lucasdrandrade</sub>](https://github.com/lucasdrandrade) | [<img src="https://avatars3.githubusercontent.com/u/2388804?s=400&v=4" width=115><br><sub>@lucasdrandrade</sub>](https://github.com/njrizzo) 
+| :---: | :---: |
  
 
 ## Autor
 ## Rafael Studart Monclar
 | [<img src="https://avatars0.githubusercontent.com/u/26147019?s=460&v=4" width=115><br><sub>@tekpixo</sub>](https://github.com/tekpixo)|
 | :---: |
-
