@@ -36,8 +36,8 @@
 
 ## Participantes
 
-| [<img src="https://avatars2.githubusercontent.com/u/62726342?s=400&v=4" width=115><br><sub>@lucasdrandrade</sub>](https://github.com/lucasdrandrade) | [<img src="https://avatars3.githubusercontent.com/u/2388804?s=400&v=4" width=115><br><sub>@lucasdrandrade</sub>](https://github.com/njrizzo) | [<img src="https://avatars0.githubusercontent.com/u/28070998?s=460&v=4" width=115><br><sub>@marcellepanzariello</sub>](https://github.com/marcellepanzariello)|
-| :---: | :---: | :---: |
+| [<img src="https://avatars2.githubusercontent.com/u/62726342?s=400&v=4" width=115><br><sub>@lucasdrandrade</sub>](https://github.com/lucasdrandrade) | [<img src="https://avatars3.githubusercontent.com/u/2388804?s=400&v=4" width=115><br><sub>@lucasdrandrade</sub>](https://github.com/njrizzo) |
+| :---: | :---: |
  
 
 ## Autor
